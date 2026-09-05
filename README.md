@@ -1,7 +1,3 @@
-Here’s a short, natural README for Vibely:
-
-Edit
-
 # Vibely
 
 Vibely is a simple social media app I built to practice React and TypeScript. It lets users share posts, like and comment, search for people, and manage their profiles.
